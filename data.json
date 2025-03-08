@@ -1,0 +1,22 @@
+{
+  "berita": [
+    {
+      "id": 1,
+      "judul": "Harga Emas Hari Ini Naik",
+      "konten": "Harga emas mengalami kenaikan signifikan...",
+      "gambar": "https://example.com/gambar1.jpg",
+      "kategori": "Trading XAUUSD",
+      "tanggal": "2025-03-08"
+    }
+  ],
+  "produk": [
+    {
+      "id": 1,
+      "nama": "Kopi Robusta",
+      "deskripsi": "Kopi robusta berkualitas dari petani lokal.",
+      "harga": "Rp 50.000",
+      "gambar": "https://example.com/kopi.jpg",
+      "wa": "6281234567890"
+    }
+  ]
+}
